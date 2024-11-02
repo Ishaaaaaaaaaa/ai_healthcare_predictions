@@ -13,9 +13,3 @@ Conlusion:
 In summary, AI-powered healthcare predictions offer transformative benefits by enabling early disease detection, personalized treatment, and efficient hospital resource management. From analyzing imaging and patient data to monitoring chronic conditions and aiding drug discovery, AI supports proactive and tailored healthcare approaches. However, responsible data handling and ethical considerations remain essential for ensuring patient privacy and fairness in AI applications.
 
 
-![Cardiac_MRI_hero_500](https://github.com/user-attachments/assets/829eb995-c20d-45a6-bb1e-44d12680995c)
-
-![heart](https://github.com/user-attachments/assets/c9e0d1f5-adbb-4a0d-bb26-3ac72b1b2084)
-
-![40959_2020_61_Fig1_HTML](https://github.com/user-attachments/assets/afff317d-b283-49f1-86d6-8cf76a8a5120)
-
