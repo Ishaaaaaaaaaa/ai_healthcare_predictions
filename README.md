@@ -7,7 +7,7 @@ AI can detect early signs of diseases that may not be evident to human eyes. In 
 3. Chronic Disease Management:
 For patients with chronic illnesses, AI helps in monitoring and predicting disease progression. Systems equipped with AI analyze continuous data (from wearables, sensors, or regular check-ups) and flag unusual changes, which can prompt timely interventions.
 
-Cardiogram
+Cardiogram of heart
 ![cardiogram](https://github.com/user-attachments/assets/108c0f38-2e3d-4803-aa0d-fe9b3fa1a8c5)
 
 Heart
