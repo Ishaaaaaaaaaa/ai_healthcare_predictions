@@ -9,10 +9,8 @@ For patients with chronic illnesses, AI helps in monitoring and predicting disea
 
 
 ![cardiogram](https://github.com/user-attachments/assets/108c0f38-2e3d-4803-aa0d-fe9b3fa1a8c5)
-Cardiogram of heart
 
 ![heart](https://github.com/user-attachments/assets/9ce79e80-7869-4279-ba62-867642833a6c)
-Heart
 
 ![Myxoma_CMR](https://github.com/user-attachments/assets/8526053c-e3f8-4343-a899-bcb193bdc537)
 
