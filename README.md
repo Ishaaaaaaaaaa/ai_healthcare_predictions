@@ -9,7 +9,9 @@ AI can detect early signs of diseases that may not be evident to human eyes. In 
 5. Chronic Disease Management:
 For patients with chronic illnesses, AI helps in monitoring and predicting disease progression. Systems equipped with AI analyze continuous data (from wearables, sensors, or regular check-ups) and flag unusual changes, which can prompt timely interventions.
 
-![Myxoma_CMR](https://github.com/user-attachments/assets/8526053c-e3f8-4343-a899-bcb193bdc537)
+![Myxoma_CMR](https://github.com/user-attachments/assets/8526053c-e3f8-4343-a899-bcb193bdc537) ![40959_2020_61_Fig1_HTML](https://github.com/user-attachments/assets/c6c5d5ea-af17-44b3-b449-027ddc15b2f0)
+
+
 
 Conlusion:
 In summary, AI-powered healthcare predictions offer transformative benefits by enabling early disease detection, personalized treatment, and efficient hospital resource management. From analyzing imaging and patient data to monitoring chronic conditions and aiding drug discovery, AI supports proactive and tailored healthcare approaches. However, responsible data handling and ethical considerations remain essential for ensuring patient privacy and fairness in AI applications.
