@@ -20,7 +20,29 @@ This repository houses our groundbreaking AI model designed to revolutionize hea
    * Train the model using the provided scripts and configurations.
 4. **Make Predictions:**
    * Use the trained model to make predictions on new data.
-   * Interpret the results and generate actionable insights. 
+   * Interpret the results and generate actionable insights.
+
+5. **Libraries Used**:
+
+Pandas: For data manipulation and analysis.
+NumPy: For numerical operations.
+Matplotlib: For data visualization.
+Seaborn: For statistical data visualization.   
+Scikit-learn: For machine learning algorithms.   
+
+6.**Machine Learning Models**:
+The following machine learning models were implemented and evaluated:
+
+Decision Tree Classifier:
+Accuracy: 79.0%
+
+Maximum Features: [2, 4, 18]
+Random Forest Classifier:
+Accuracy: 84.6%
+Estimators: [100, 500]
+
+Logistic Regression:
+Accuracy: 84.00%
 
 **Contributing to This Project:**
 We welcome contributions from the community! If you're interested in contributing, please follow these guidelines:
