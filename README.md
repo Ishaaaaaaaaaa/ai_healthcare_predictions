@@ -6,8 +6,9 @@ AI models trained on medical data, such as lab results, patient histories, and i
 2. Early Disease Detection:
 AI can detect early signs of diseases that may not be evident to human eyes. In radiology, for example, deep learning models analyze imaging scans (like X-rays, MRIs, and CT scans) to identify abnormalities, such as tumors, before they become symptomatic, improving early intervention.
 
-3. Chronic Disease Management:
-For patients with chronic illnesses, AI helps in monitoring and predicting disease progression. Systems equipped with AI analyze continuous data (from wearables, sensors, or regular check-ups) and flag unusual changes, which can prompt timely interventions.
+3.Used Streamlit for predictions:
+Show Predictions: Pass inputs to your model and display predictions with st.write().
+Provide Advice: Display tailored lifestyle recommendations based on prediction outcomes.
 
 Conlusion:
 In summary, AI-powered healthcare predictions offer transformative benefits by enabling early disease detection, personalized treatment, and efficient hospital resource management. From analyzing imaging and patient data to monitoring chronic conditions and aiding drug discovery, AI supports proactive and tailored healthcare approaches. However, responsible data handling and ethical considerations remain essential for ensuring patient privacy and fairness in AI applications.
