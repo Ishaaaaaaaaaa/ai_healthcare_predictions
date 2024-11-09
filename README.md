@@ -35,8 +35,8 @@ The following machine learning models were implemented and evaluated:
   Decision Tree Classifier:
    Accuracy: 79.0%
 
-   Maximum Features: [2, 4, 18]
-   Random Forest Classifier:
+  Maximum Features: [2, 4, 18]
+  Random Forest Classifier:
   Accuracy: 84.6%
   Estimators: [100, 500]
 
